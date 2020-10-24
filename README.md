@@ -1,1 +1,7 @@
-# live
+# MLKart live
+
+## Setting
+
+```
+git clone 
+```
