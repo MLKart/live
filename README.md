@@ -11,9 +11,9 @@
 
 |filename|
 |:--|
-|[./asset/holder_left.stl](holder_left.stl)|
-|[./asset/holder_right.stl](holder_right.stl)|
-|[./asset/servo_socket.stl](servo_sockt.stl)|
+|[holder_left.stl](./asset/holder_left.stl)|
+|[holder_right.stl](./asset/holder_right.stl)|
+|[servo_sockt.stl](./asset/servo_socket.stl)|
 
 ## Software build
 
